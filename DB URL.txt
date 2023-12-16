@@ -1,0 +1,3 @@
+postgresql://dev3z:LXboQlA0VOk8@ep-throbbing-cell-68367036.us-east-2.aws.neon.tech/test?sslmode=require
+
+mongodb+srv://Dev3z:1234MDB@cluster0.ymia5rw.mongodb.net/
